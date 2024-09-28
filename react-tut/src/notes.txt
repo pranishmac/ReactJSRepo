@@ -1,0 +1,3 @@
+In React, useState is a built-in Hook that allows you to add state to functional components.
+State in React refers to data that can change over time and trigger a re-render of the component when updated
+

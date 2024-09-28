@@ -1,0 +1,35 @@
+.App {
+/* display: flex;
+flex-direction: row; */
+}
+
+.header {
+display: flex;
+width: 100%;
+border: 2px solid red;
+justify-content: space-between;
+}
+.headerList {
+display: flex;
+margin:10px;
+padding: 10px;
+}
+
+.headerList li{
+padding: 20px;
+list-style-type: none;
+}
+
+.buttonClass{
+  height: 20px;
+  cursor: pointer;
+  margin: 30px;
+}
+
+
+.Body{
+  display: flex;
+  margin: 20px;
+  flex-wrap: wrap;
+}
+
